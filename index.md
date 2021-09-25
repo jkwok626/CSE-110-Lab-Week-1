@@ -28,4 +28,4 @@
 1. jkwok@ucsd.edu
 2. jackiekwok3@gmail.com
 
-**[Who I Am as a Person](#who-i-am-as-a-person) | [Who I Am as a Programmer](#who-i-am-as-a-programmer) | [My Goals](#my-goals) | [Contact](#contact)**
+[Who I Am as a Person](#who-i-am-as-a-person) | [Who I Am as a Programmer](#who-i-am-as-a-programmer) | [My Goals](#my-goals) | [Contact](#contact)
